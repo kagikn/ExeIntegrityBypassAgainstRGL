@@ -5,4 +5,4 @@ This mod disables the integrity check (version check) against the exe of GTA V, 
 In short words, this mod just makes GTA5.exe not listen to the result of version check.
 
 ### License
-Exe Integrity Bypass Against RGL is licensed under Unlicense. Too few pieces of materials to be worth keeping secret.
+Exe Integrity Bypass Against RGL is licensed under BSD Zero Clause License. Too few pieces of materials to be worth keeping secret.
